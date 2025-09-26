@@ -38,8 +38,9 @@ We trained and evaluated two models:
 - **ROC Curve** shows Random Forest separates churners better than Logistic Regression.  
 - **Confusion Matrix** highlights correct vs misclassified churn predictions.  
 
-![ROC Curve](customer_churn/images/roc_curve.png)  
-![Confusion Matrix](customer_churn/images/confusion_matrix.png)  
+![ROC Curve](images/roc_curve.png)
+![Confusion Matrix](images/confusion_matrix.png)
+
 
   
  
