@@ -1,4 +1,10 @@
-# 📊 AI Internship Projects  
+# 📊 AI Internship Projects 
+
+# 📊 AI Internship  
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](../LICENSE)  
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 This repository contains machine learning projects completed during my internship.  
 Each project applies data-driven techniques to solve real-world business problems.  
@@ -113,3 +119,10 @@ Try advanced models like XGBoost / LightGBM
 Perform hyperparameter tuning for better accuracy
 
 Deploy model as an API or web app (Flask / Streamlit)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
+
