@@ -1,13 +1,10 @@
-# AI Internship Projects 🤖📊
+# data_analyst_internship_projects🤖📊
 
 This repository contains projects completed during my AI/Data Analytics internship.  
 It includes two end-to-end machine learning workflows:
 
 1. **Customer Churn Prediction**  
 2. **Sales Forecasting**
-
----
-
 
 ---
 
