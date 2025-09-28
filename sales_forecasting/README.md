@@ -13,33 +13,6 @@ The pipeline covers the full workflow:
 - **Forecasting**: 30-day forward forecast with prediction intervals (±1σ, ±2σ).  
 - **Deployment**: Notebook `03_evaluation_and_deployment.ipynb` generates results & saves outputs.  
 
----
-
-## Project Structure
-             
-
-├── sales_forecasting/
-│ ├── data/
-│ │ ├── prepared_sales.csv
-│ │ ├── holdout_predictions.csv
-│ │ ├── future_forecast.csv
-│ │ └── future_forecast_with_intervals.csv
-│ ├── images/ # saved charts
-│ │ ├── actual_vs_predicted.png
-│ │ ├── rf_vs_xgb_vs_actual.png
-│ │ ├── residuals.png
-│ │ ├── residual_distribution.png
-│ │ ├── future_forecast.png
-│ │ └── forecast_with_intervals.png
-│ ├── notebooks/
-│ │ ├── 01_data_prep.ipynb
-│ │ ├── 02_modeling.ipynb
-│ │ └── 03_evaluation_and_deployment.ipynb
-│ ├── src/
-│ │ └── models/
-│ ├── requirements.txt
-│ └── README.md                 
-
 
 ---
 
