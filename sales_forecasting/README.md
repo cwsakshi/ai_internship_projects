@@ -16,30 +16,29 @@ The pipeline covers the full workflow:
 ---
 
 ## Project Structure
-ai_internship/
-│
-├── customer_churn/                  
-├── sales_forecasting/               
-│   ├── data/                        
-│   │   ├── prepared_sales.csv
-│   │   ├── holdout_predictions.csv
-│   │   ├── future_forecast.csv
-│   │   └── future_forecast_with_intervals.csv
-│   ├── images/                      # saved charts
-│   │   ├── actual_vs_predicted.png
-│   │   ├── rf_vs_xgb_vs_actual.png
-│   │   ├── residuals.png
-│   │   ├── residual_distribution.png
-│   │   ├── future_forecast.png
-│   │   └── forecast_with_intervals.png
-│   ├── notebooks/
-│   │   ├── 01_data_prep.ipynb
-│   │   ├── 02_modeling.ipynb
-│   │   └── 03_evaluation_and_deployment.ipynb
-│   ├── src/
-│   │   └── models/                 
-│   ├── requirements.txt
-│   └── README.md                   
+             
+
+├── sales_forecasting/
+│ ├── data/
+│ │ ├── prepared_sales.csv
+│ │ ├── holdout_predictions.csv
+│ │ ├── future_forecast.csv
+│ │ └── future_forecast_with_intervals.csv
+│ ├── images/ # saved charts
+│ │ ├── actual_vs_predicted.png
+│ │ ├── rf_vs_xgb_vs_actual.png
+│ │ ├── residuals.png
+│ │ ├── residual_distribution.png
+│ │ ├── future_forecast.png
+│ │ └── forecast_with_intervals.png
+│ ├── notebooks/
+│ │ ├── 01_data_prep.ipynb
+│ │ ├── 02_modeling.ipynb
+│ │ └── 03_evaluation_and_deployment.ipynb
+│ ├── src/
+│ │ └── models/
+│ ├── requirements.txt
+│ └── README.md                 
 
 
 ---
