@@ -1,4 +1,4 @@
-# data_analyst_internship_projects🤖📊
+# __Data_analyst_internship_projects🤖📊__
 
 This repository contains projects completed during my AI/Data Analytics internship.  
 It includes two end-to-end machine learning workflows:
