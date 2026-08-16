@@ -17,7 +17,7 @@ It includes two end-to-end machine learning workflows:
   - Logistic Regression, Random Forest  
   - Model evaluation with accuracy, recall, ROC-AUC  
 
-#### 🔑 Results
+#### 🔑 Results:
 **Best Model: Random Forest**  
 - Accuracy: ~65%  
 - Recall: ~80%  
@@ -39,7 +39,7 @@ It includes two end-to-end machine learning workflows:
   - Random Forest & XGBoost models  
   - Residual analysis and prediction intervals  
 
-#### 🔑 Results
+#### 🔑 Results:
 
 | Model         | MAE    | RMSE   | Notes                                |
 |---------------|--------|--------|--------------------------------------|
@@ -50,7 +50,7 @@ It includes two end-to-end machine learning workflows:
 - Residual std (σ): **11.24**  
 - Forecast for early January 2025: ~145–160 units/day  
 
-#### 📊 Key Visuals
+#### 📊 Key Visuals:
 - Actual vs Predicted  
 - RF vs XGB vs Actual  
 - Residual Analysis  
